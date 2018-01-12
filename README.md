@@ -1,0 +1,2 @@
+# LittleTrash
+初学
