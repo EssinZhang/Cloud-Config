@@ -1,2 +1,2 @@
-# LittleTrash
-初学
+# Config
+配置文件
