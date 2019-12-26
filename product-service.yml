@@ -12,5 +12,5 @@ spring:
   application:
     name: product-service
 
-env: default567
+env: default321
 branch: master
